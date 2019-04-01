@@ -3,7 +3,9 @@ This is an incomplete rule management tool aimed to help with fine tuning Securi
 
 ## Instructions
 Change persmissions to execute
+
 `chmod +x dirtycheap.py`
 
 Run dirtycheap.py
+
 `python ./dirtycheap.py`
