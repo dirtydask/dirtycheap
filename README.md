@@ -2,7 +2,7 @@
 This is an incomplete rule management tool aimed to help with fine tuning Security Onion deployments.
 
 ## Instructions
-Change persmissions to execute
+Change persmissions
 
 `chmod +x dirtycheap.py`
 
